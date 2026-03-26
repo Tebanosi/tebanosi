@@ -161,3 +161,18 @@ button {
   min-height: 100vh;
   padding: 40px;
 }
+
+.owner-info {
+  margin-bottom: 25px;
+}
+
+.contact-content h1 {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.contact-content p {
+  margin-bottom: 15px;
+}
