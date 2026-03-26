@@ -173,6 +173,17 @@ button {
   color: white;
 }
 
+.services-header {
+  background: rgba(0, 0, 0, 0.4);   /* matches the service boxes */
+  padding: 25px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  backdrop-filter: blur(6px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+  text-align: center;
+}
+
+
 .contact-content p {
   margin-bottom: 15px;
 }
