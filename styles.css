@@ -89,3 +89,10 @@ button {
     border: none;
     cursor: pointer;
 }
+
+.about-page {
+    background: linear-gradient(135deg, #000000, #8b0000);
+    color: white;
+    min-height: 100vh;
+    padding: 40px;
+}
